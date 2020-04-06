@@ -1,6 +1,6 @@
 {
-  "name": "jsdom",
-  "version": "16.2.2",
+  "name": "jsdomJan",
+  "version": "16.2.2.a",
   "description": "A JavaScript implementation of many web standards",
   "keywords": [
     "dom",
@@ -17,8 +17,7 @@
     "Magne Andersson <code@zirro.se> (https://zirro.se/)",
     "Pierre-Marie Dartus <dartus.pierremarie@gmail.com>"
   ],
-  "license": "MIT",
-  "repository": "jsdom/jsdom",
+  "license": "MIT",  
   "dependencies": {
     "abab": "^2.0.3",
     "acorn": "^7.1.1",
